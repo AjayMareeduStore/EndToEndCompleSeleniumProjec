@@ -6,28 +6,42 @@ public class AddedFromBranch {
 	
 	
 
-public void AddedFromBranch1() {
+public void AddedFromBrancher() {
 
 	
 }
-public void AddedFromBranch2() {
+public void AddedFromBranwrch2() {
 
 	
 }
-public void AddedFromBranch3() {
+public void AddedFromBranwerwewrch3() {
+
 
 	
 }
 
-public void AddedFromBranch4() {
+public void AddedFromBrwerweranch1() {
 
 	
 }
-public void AddedFromBranch5() {
+public void werwerwr() {
 
 	
 }
-public void AddedFromBranch6() {
+public void wer() {
+
+
+	
+}public void werwerwrw() {
+
+	
+}
+public void AddedFromBranchwerwerw2() {
+
+	
+}
+public void AddedFromBrwerwrewerwranch3() {
+
 
 	
 }
